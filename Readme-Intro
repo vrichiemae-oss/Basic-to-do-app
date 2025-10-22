@@ -1,0 +1,21 @@
+# Basic-to-do-app
+A basic To-Do List project for learning basic front-end development. (open source)
+
+## Goal
+Create a simple, clean to-do app to demonstrate HTML, CSS, and JavaScript fundamentals.
+
+## Features
+- Add tasks
+- Mark tasks as completed
+- Delete tasks
+- Tasks saved in browser local storage
+
+## Tech
+- HTML, CSS, JavaScript (Vanilla)
+
+## How to run locally
+1. Download the files.
+2. Open `index.html` in your browser.
+
+## Author
+[Your Name] — [Your Role]
